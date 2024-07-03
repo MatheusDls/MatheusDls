@@ -1,7 +1,5 @@
 Hi Everyone ! Me chamo Matheus, sou estudante de Analise e Desenvolvimento De Sistemas, estou na trilha do glorioso mundo de Back-End ! 👨‍💻🚀
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMatheusDls%2FBadge-Visitor"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMatheusDls%2FBadge-Visitor&label=Visitantes%20&countColor=%23555555" /></a>
-
 ## Social 🌎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-limadls)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/matheuslima98/)
