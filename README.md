@@ -21,4 +21,6 @@ Hi Everyone ! Me chamo Matheus, sou estudante de Analise e Desenvolvimento De Si
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ## GitHub Status ⏳
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusDLs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusDLs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+
+![snake gif](https://github.com/MatheusDls/MatheusDls/blob/output/github-contribution-grid-snake-dark.svg)
